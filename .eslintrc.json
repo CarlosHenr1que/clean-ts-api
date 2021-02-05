@@ -2,6 +2,5 @@
     "extends": "standard-with-typescript",
     "parserOptions": {
         "project": "./tsconfig.json"
-    },
-    "strict-boolean-expressions": true
+    }
 }
